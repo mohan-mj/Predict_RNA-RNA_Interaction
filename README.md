@@ -1,4 +1,4 @@
-# Predicting-RNA-RNA-Interaction-
+# Prediction of RNA-RNA Interaction using Deep Learning
 Ribonucleic acid (RNA) is a polymeric molecule essential in various biological roles in coding, decoding, regulation and expression of genes. RNA and DNA are nucleic acids, and along with lipids, proteins and carbohydrates, constitute the four major macromolecules essential for all known forms of life. Like DNA, RNA is assembled as a chain of nucleotides.
 
 <img src="images/5.png" height="500" width="500">
